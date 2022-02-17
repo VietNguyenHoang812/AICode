@@ -1,0 +1,67 @@
+##########################################################################
+		_____	    __		   ___  _____
+		  |   |  | |      /\   |  |   |
+		  |   |--| |--   /--\  |-/    |
+		  |   |  | |__  /    \ |  \   |
+		  
+##########################################################################
+
+1. Packing information into your names: Đặt tên mang nhiều thông tin
+	- Use SPECIFIC words
+	- Avoid GENERIC names
+	- Use CONCRETE names
+	- Attach IMPORTANT details
+	- Use longer names for larger scopes
+	- Use capitalization, underscores, and so on in a meaningful way
+	
+2. Name that can't be misconstrued
+
+3. Aesthetics
+	- Same silhouette for similar multiple blocks
+	- Align parts of the code into columns
+	- Meaningful order of variables
+	- Break large blocks into paragraphs
+	
+4. Comments
+	- DO:
+		+ Director comment
+		+ Flaw
+		+ Summarize blocks of code
+	 - DON'T:
+	 	+ Facts that can be quickly got from the code
+	 	+ Make up for bad code
+
+5. Precise comments
+	- Avoid pronouns
+	- Give example of function
+	- High-level comments
+	- Can give some thoughts
+	
+6. Simplify loop and logic
+	- Order in comparison, if - else
+	- Try NOT to use ?, do while
+	- Nested loop: meaningful iterate variables	
+	
+7. Break down GIANT expression
+
+8. Variables
+	- Eliminate variables
+	- Reduce the scope of each variable
+	- Write-once variables
+
+9. Seperate the generic code from the project-specific code
+
+10. 1 task at a time
+
+11. Write less code
+	- Eliminate nonessential
+	- Optimize code/solution
+	
+
+
+
+	
+	
+	
+	
+	
